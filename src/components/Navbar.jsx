@@ -1,6 +1,8 @@
+
+
 export function Navbar(){
   return (
-    <div>
+    <nav className="">
       <p>&lt;Mighty /&gt;</p>
       <ul>
         <li>About</li>
@@ -8,6 +10,6 @@ export function Navbar(){
         <li>Projects</li>
         <li>Contact</li>
       </ul>
-    </div>
+    </nav>
   );
 }
