@@ -1,6 +1,6 @@
 export function About() {
   return (
-    <div>
+    <div className="py-16">
      <p>About Me</p>
      <div>
        <img src="" alt="" />
